@@ -1,5 +1,6 @@
 """Enter any number
-Then You can see my name"""
+Then You can see my name, 
+You can create functions for same code and utilize it whereever required!!"""
 n=int(input())
 mid=(n//2)
 #This one is for pattern L
